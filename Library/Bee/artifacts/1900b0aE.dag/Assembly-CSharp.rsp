@@ -367,6 +367,8 @@
 "Assets/Samples/Ultraleap Tracking/7.2.0/Shared Example Assets REQUIRED/Scripts/SpawnObjectAtPosition.cs"
 "Assets/Samples/Ultraleap Tracking/7.2.0/Tabletop Examples/Example Assets/Scripts/SampleDependencies.cs"
 "Assets/script/cameraController.cs"
+"Assets/script/GameManager.cs"
+"Assets/script/GameUIManager.cs"
 "Assets/script/playerController.cs"
 "Assets/script/Rotater.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs"

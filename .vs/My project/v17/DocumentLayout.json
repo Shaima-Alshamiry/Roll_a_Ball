@@ -7,12 +7,23 @@
       "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\Shaima_Alshamiry\\My project\\assets\\script\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\Shaima_Alshamiry\\My project\\assets\\script\\gameuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gameuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\Shaima_Alshamiry\\My project\\assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\Shaima_Alshamiry\\My project\\assets\\script\\rotater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\rotater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shaima_Alshamiry\\Downloads\\BallMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\Shaima_Alshamiry\\My project\\assets\\script\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +33,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\Shaima_Alshamiry\\My project\\Assets\\script\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\GameManager.cs",
+              "ToolTip": "C:\\Users\\Shaima_Alshamiry\\My project\\Assets\\script\\GameManager.cs",
+              "RelativeToolTip": "Assets\\script\\GameManager.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAiwFcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T08:31:40.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BallMovement.cs",
+              "DocumentMoniker": "C:\\Users\\Shaima_Alshamiry\\Downloads\\BallMovement.cs",
+              "RelativeDocumentMoniker": "..\\Downloads\\BallMovement.cs",
+              "ToolTip": "C:\\Users\\Shaima_Alshamiry\\Downloads\\BallMovement.cs",
+              "RelativeToolTip": "..\\Downloads\\BallMovement.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAswLcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T08:01:26.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameUIManager.cs",
+              "DocumentMoniker": "C:\\Users\\Shaima_Alshamiry\\My project\\Assets\\script\\GameUIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\GameUIManager.cs",
+              "ToolTip": "C:\\Users\\Shaima_Alshamiry\\My project\\Assets\\script\\GameUIManager.cs",
+              "RelativeToolTip": "Assets\\script\\GameUIManager.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAUwDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T07:43:14.803Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -36,14 +85,14 @@
               "RelativeDocumentMoniker": "Assets\\script\\playerController.cs",
               "ToolTip": "C:\\Users\\Shaima_Alshamiry\\My project\\Assets\\script\\playerController.cs",
               "RelativeToolTip": "Assets\\script\\playerController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAswMMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T13:58:06.944Z",
+              "WhenOpened": "2025-10-01T08:27:30.292Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Rotater.cs",
               "DocumentMoniker": "C:\\Users\\Shaima_Alshamiry\\My project\\Assets\\script\\Rotater.cs",
               "RelativeDocumentMoniker": "Assets\\script\\Rotater.cs",
@@ -55,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "cameraController.cs",
               "DocumentMoniker": "C:\\Users\\Shaima_Alshamiry\\My project\\Assets\\script\\cameraController.cs",
               "RelativeDocumentMoniker": "Assets\\script\\cameraController.cs",
